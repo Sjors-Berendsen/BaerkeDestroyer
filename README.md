@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaerkeDestroyer
 
--I'm learning sth, idk
+- I'm learning sth, idk
 
 <!---
 BaerkeDestroyer/BaerkeDestroyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
