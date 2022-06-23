@@ -13,8 +13,8 @@ I'm still a beginner after 2 years, cuz I cant focus on one skill for longer tha
     - Basic Pterodactyl knowledge
     - Can read sheetmusic (F key only)
  
- - Goals:
-  - Learn C, C++, C#, RUST
+- Goals:
+   - Learn C, C++, C#, RUST
   - Get better at Blender, Video editing, Unity/Unreal Engine
 
 <!---
