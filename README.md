@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @BaerkeDestroyer
 
 - Skills
-  - Basic front end (HTML, PHP, CSS, JS)
-  - Basic back end (JS, PYTHON)
+  - Coding/Programming:  
+    - Basic front end (HTML, PHP, CSS, JS)
+    - Basic back end (JS, PYTHON)
+  - Other
+    - Basic Pterodactyl knowledge
+    - Can read sheetmusic (F key only)
  
 - I'm probably not busy programming
 
