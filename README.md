@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaerkeDestroyer
 
-(Autistic programming turned gamer)
+
 
 I'm still a beginner after 2 years, cuz I cant focus on one skill for longer than 3 months
 
