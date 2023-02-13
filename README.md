@@ -5,21 +5,18 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaerkeDestroyer&layout=compact&title_color=246bce&text_color=ffffff&bg_color=000000&hide_border=true)
 
 
-
-I'm still a beginner after 2 years, cuz I cant focus on one skill for longer than 3 months
-
-
 - Skills
   - Coding/Programming:  
     - Basic front end (HTML, PHP, CSS, JS)
     - Basic back end ((node)JS, PYTHON)
+    - C#/UnityAPI
   - Other
     - Basic Pterodactyl knowledge
     - Can read sheetmusic (F key only)
  
 - Goals:
-   - Learn C, C++, C#, RUST
-  - Get better at Blender, Video editing, Unity/Unreal Engine
+   - Learn C, C++, RUST and Java
+  - Get better at Blender, Video editing
 
 <!---
 BaerkeDestroyer/BaerkeDestroyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
